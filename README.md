@@ -15,7 +15,7 @@
 
 ### A bit about me
 
-I'm a BCA (Science) graduate from Pune, and honestly, I didn't fall into data science — I built my way into it, one broken script at a time. I spent my internship shipping four end-to-end projects on my own, no team, no hand-holding, and came out the other side with a habit I can't shake: if I don't understand something, I don't stop until I do.
+I'm a BCA (Science) graduate from Pune, who didn't fall into data science — I built my way into it, one broken script at a time. I spent my internship shipping four end-to-end projects on my own, no team, no hand-holding, and came out the other side with a habit I can't shake: if I don't understand something, I don't stop until I do.
 
 That's really the whole pitch. I'm not the guy with ten years of experience. I'm the guy who takes a raw, ugly dataset and doesn't quit until it tells a clean story — and does it fast.
 
