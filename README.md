@@ -23,7 +23,7 @@ That's really the whole pitch. I'm not the guy with ten years of experience. I'm
 class Arshad:
     def __init__(self):
         self.based_in = "Pune, Maharashtra"
-        self.currently = "Data Science Intern @ SkillCraft Technology"
+        self.currently = "Looking for an opportunity in Data Science"
         self.strengths = ["fast learner", "math-heavy problem solving", "self-directed execution"]
         self.looking_for = "an entry-level Data Science / Analytics role"
 
