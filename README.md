@@ -83,7 +83,6 @@ Consolidated Nmap scanning, Shodan enrichment, SQLi detection, and live CVE look
 <p align="center">
   <img src="https://img.shields.io/github/followers/Nefunq?label=Followers&style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=Nefunq&label=Profile+Views&style=flat-square&color=blue" />
-  <img src="https://img.shields.io/github/last-commit/Nefunq/splitwise-clone?label=Last%20Shipped&style=flat-square" />
 </p>
 - 6 public projects, all with real writeups — not just code dumps
 - ~89.5% model accuracy on the bank marketing classifier, with class imbalance handled properly
